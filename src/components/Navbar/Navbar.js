@@ -218,20 +218,20 @@ function Navbar() {
                                 spy='true'
                                 duration={2000}
                             >
-                                <div className={classes.drawerItem}>
+{/*                                 <div className={classes.drawerItem}>
                                     <HiDocumentText
                                         className={classes.drawerIcon}
                                     />
                                     <span className={classes.drawerLinks}>
                                         Resume
                                     </span>
-                                </div>
+                                </div> */}
                             </NavLink>
                         </Fade>
 
                         <Fade left>
                             <NavLink
-                                to='/#services'
+                                to='/#projects'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}
@@ -241,7 +241,7 @@ function Navbar() {
                                         className={classes.drawerIcon}
                                     />
                                     <span className={classes.drawerLinks}>
-                                        Services
+                                        Projects
                                     </span>
                                 </div>
                             </NavLink>
@@ -254,14 +254,14 @@ function Navbar() {
                                 spy='true'
                                 duration={2000}
                             >
-                                <div className={classes.drawerItem}>
+{/*                                 <div className={classes.drawerItem}>
                                     <FaFolderOpen
                                         className={classes.drawerIcon}
                                     />
                                     <span className={classes.drawerLinks}>
                                         Blog
                                     </span>
-                                </div>
+                                </div> */}
                             </NavLink>
                         </Fade>
 
