@@ -4,7 +4,7 @@ export const socialsData = {
     linkedIn: 'https://www.linkedin.com/in/robert-maina-muriuki/',
     instagram: 'https://www.instagram.com/',
     codepen: 'https://codepen.io/',
-    twitter: 'https://twitter.com/',
+    twitter: 'https://twitter.com/robby_maina',
     reddit: 'https://www.reddit.com/user/',
     blogger: 'https://www.blogger.com/',
     medium: 'https://medium.com/@',
