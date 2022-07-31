@@ -170,7 +170,7 @@ function Contacts() {
                 <h1 style={{ color: theme.primary }}>Contacts</h1>
                 <div className='contacts-body'>
                     <div className='contacts-form'>
-                        <form onSubmit={handleContactForm}>
+{/*                         <form onSubmit={handleContactForm}>
                             <div className='input-container'>
                                 <label htmlFor='Name' className={classes.label}>
                                     Name
@@ -247,7 +247,7 @@ function Contacts() {
                                     </div>
                                 </button>
                             </div>
-                        </form>
+                        </form> */}
                         <Snackbar
                             anchorOrigin={{
                                 vertical: 'top',
@@ -303,16 +303,16 @@ function Contacts() {
                                 {contactsData.phone}
                             </p>
                         </a>
-                        <div className='personal-details'>
+{/*                         <div className='personal-details'>
                             <div className={classes.detailsIcon}>
                                 <HiOutlineLocationMarker />
                             </div>
                             <p style={{ color: theme.tertiary }}>
                                 {contactsData.address}
                             </p>
-                        </div>
+                        </div> */}
 
-                        <div className='socialmedia-icons'>
+{/*                         <div className='socialmedia-icons'>
                             {socialsData.twitter && (
                                 <a
                                     href={socialsData.twitter}
@@ -423,7 +423,7 @@ function Contacts() {
                                     <FaGitlab aria-label='GitLab' />
                                 </a>
                             )}
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>
