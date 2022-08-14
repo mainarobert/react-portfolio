@@ -4,7 +4,7 @@ import CloseIcon from '@material-ui/icons/Close';
 import axios from 'axios';
 import isEmail from 'validator/lib/isEmail';
 import { makeStyles } from '@material-ui/core/styles';
-import {
+/* import {
     FaTwitter,
     FaLinkedinIn,
     FaGithub,
@@ -17,13 +17,13 @@ import {
     FaGitlab,
     FaMediumM,
 } from 'react-icons/fa';
-import { AiOutlineSend, AiOutlineCheckCircle } from 'react-icons/ai';
+import { AiOutlineSend, AiOutlineCheckCircle } from 'react-icons/ai'; */
 import { FiPhone, FiAtSign } from 'react-icons/fi';
-import { HiOutlineLocationMarker } from 'react-icons/hi';
+/* import { HiOutlineLocationMarker } from 'react-icons/hi'; */
 
 import { ThemeContext } from '../../contexts/ThemeContext';
 
-import { socialsData } from '../../data/socialsData';
+/* import { socialsData } from '../../data/socialsData'; */
 import { contactsData } from '../../data/contactsData';
 import './Contacts.css';
 

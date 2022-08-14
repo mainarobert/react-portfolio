@@ -1,19 +1,19 @@
 import one from '../assets/svg/projects/one.svg'
 import two from '../assets/svg/projects/two.svg'
 import three from '../assets/svg/projects/three.svg'
-import four from '../assets/svg/projects/four.svg'
+/* import four from '../assets/svg/projects/four.svg'
 import five from '../assets/svg/projects/five.svg'
 import six from '../assets/svg/projects/six.svg'
 import seven from '../assets/svg/projects/seven.svg'
 import eight from '../assets/svg/projects/eight.svg'
-
+ */
 
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Employee Management',
-        projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
-        tags: ['React', 'CSS', 'Material Ui'],
+        projectName: 'Chakula Recipe',
+        projectDesc: 'This project is a recipe application that allows users to register, login & share recipes of their favorite meals',
+        tags: ['Python', 'Django'],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         image: one
@@ -36,7 +36,7 @@ export const projectsData = [
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         image: three
     },
-    {
+/*     {
         id: 4,
         projectName: 'Android Patient Tracker',
         projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
@@ -80,7 +80,7 @@ export const projectsData = [
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         image: eight
-    },
+    }, */
 ]
 
 
