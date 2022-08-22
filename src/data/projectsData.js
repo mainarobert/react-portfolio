@@ -14,8 +14,8 @@ export const projectsData = [
         projectName: 'Chakula Recipe',
         projectDesc: 'This project is a recipe application that allows users to register, login & share recipes of their favorite meals',
         tags: ['Python', 'Django'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        code: 'https://github.com/mainarobert/recipe',
+        demo: 'https://chakula-recipe-heroku.herokuapp.com',
         image: one
     },
     {
