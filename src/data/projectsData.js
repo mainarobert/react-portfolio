@@ -1,12 +1,11 @@
 import one from '../assets/svg/projects/one.svg'
 import two from '../assets/svg/projects/two.svg'
 import three from '../assets/svg/projects/three.svg'
-/* import four from '../assets/svg/projects/four.svg'
+import four from '../assets/svg/projects/four.svg'
 import five from '../assets/svg/projects/five.svg'
 import six from '../assets/svg/projects/six.svg'
 import seven from '../assets/svg/projects/seven.svg'
 import eight from '../assets/svg/projects/eight.svg'
- */
 
 export const projectsData = [
     {
@@ -16,16 +15,16 @@ export const projectsData = [
         tags: ['Python', 'Django'],
         code: 'https://github.com/mainarobert/recipe',
         demo: 'https://chakula-recipe-heroku.herokuapp.com',
-        image: one
+        image: five
     },
     {
         id: 2,
-        projectName: 'Railway Tracking',
-        projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
-        tags: ['Django', 'Tailwind CSS'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: two
+        projectName: 'Inventory Match Game',
+        projectDesc: 'This project is game where to try to match the various items in the least number of turns.',
+        tags: ['React'],
+        code: 'https://github.com/mainarobert/matchGame',
+        demo: 'https://inventorymatch.netlify.app/',
+        image: three
     },
     {
         id: 3,
@@ -34,7 +33,7 @@ export const projectsData = [
         tags: ['Django', 'CSS', 'Material Ui'],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: three
+        image: eight
     },
 /*     {
         id: 4,
