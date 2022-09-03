@@ -33,7 +33,7 @@ export const projectsData = [
         tags: ['javaScript, threeJs, Blender'],
         code: '',
         demo: 'https://robertmaina.netlify.app/',
-        image: eight
+        image: four
     },
 /*     {
         id: 4,
