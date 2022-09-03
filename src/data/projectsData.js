@@ -28,11 +28,11 @@ export const projectsData = [
     },
     {
         id: 3,
-        projectName: 'Weather App',
-        projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
-        tags: ['Django', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'A 3D portfolio',
+        projectDesc: 'This is a 3D background inspired portfolio that I built as an experiment on web design with 3D.',
+        tags: ['javaScript, threeJs, Blender'],
+        code: '',
+        demo: 'https://robertmaina.netlify.app/',
         image: eight
     },
 /*     {
